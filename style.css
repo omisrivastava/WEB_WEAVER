@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.head{
+    display: inline-block;
+    position:absolute;
+}
+input{
+    top:34px;
+    right:34px;
+    display: inline-block;
+    
+    
+}
+a{
+margin:200px;
+}
